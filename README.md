@@ -1,4 +1,4 @@
-# PingPong Game. 
+# Ping-Pong Game. 
 
 Ping pong game , this is an example using socket.io with Nodejs and Expressjs
 
